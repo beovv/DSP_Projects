@@ -1,0 +1,48 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Wednesday, March 30, 2022 7:28:31 PM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Wednesday, March 30, 2022 7:28:31 PM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       00118    (of 40960)
+DM1 RAM used:       00100    (of 40960)
+PM  RAM used(Data): 00000    (of 24576)
+PM  RAM used(Inst): 00335    (of 24576) 273 instructions (32bit: 211  64bit: 62)
+Total PM used:      00335    (of 24576)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        16      0       0       
+Crossover1_2                  54        85        40      56      0
+FRAMEWORK                     66        48        12      8       0
+DCB1                          16        16        6       6       0
+DCB1_3                        16        16        6       6       0
+Nx2-1                         12        16        5       0       0
+Single 1_2                    10        13        3       2       0
+Single 1                      8         11        3       1       0
+Single 1_3                    8         11        3       1       0
+Single 1_4                    8         11        3       1       0
+Single 1_5                    8         11        3       1       0
+Single 2                      7         8         5       1       0
+Gen 1st Order1_2              7         7         3       5       0
+Gen 1st Order1                7         7         3       5       0
+AsrcIn1                       5         5         0       0       0
+Mute1_4                       4         4         1       1       0
+Mute1_5                       4         4         1       1       0
+Mute1_6                       4         4         1       1       0
+Output1_2                     2         2         0       0       0
+SpdifOut1                     2         2         0       0       0
+Output1_3                     2         2         0       0       0
+Output1_4                     2         2         0       0       0
+--------------------------------------------------------------------------------------
+Total                         252       285       114     96      0
+--------------------------------------------------------------------------------------
+(% Fs=96.0kHz)                9%        2%        1%      1%      0%
+

@@ -1,0 +1,31 @@
+#Begin FileDescription
+Version[0.94.3]
+#End FileDescription
+#Begin ComboSettings
+[Controller;RDC2_0051]
+[ComboType;2]
+[ComboSubType;1]
+#End ComboSettings
+#Begin ComboParts
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\44_16.cspro]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\44_24.cspro]
+[]
+[]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\48_16.cspro]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\48_24.cspro]
+[]
+[]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\88_16.cspro]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\88_24.cspro]
+[]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\96_16.cspro]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\96_24.cspro]
+[]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\176_16.cspro]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\176_24.cspro]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\192_16.cspro]
+[C:\Users\oleg.tetushkin\Documents\Двойное MONO SSM3285 HiFiPi3\192_24.cspro]
+[]
+[]
+[]
+#End ComboParts

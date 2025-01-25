@@ -1,0 +1,64 @@
+//TDM slot 0
+0x00
+//TDM slot 1
+0x01
+//TDM slot 2
+0x02
+//TDM slot 3
+0x03
+//TDM slot 4
+0x04
+//TDM slot 5
+0x05
+//TDM slot 6
+0x06
+//TDM slot 7
+0x07
+//TDM slot 8
+0x08
+//TDM slot 9
+0x09
+//TDM slot 10
+0x0A
+//TDM slot 11
+0x0B
+//TDM slot 12
+0x0C
+//TDM slot 13
+0x0D
+//TDM slot 14
+0x0E
+//TDM slot 15
+0x0F
+//TDM slot 16
+0x10
+//TDM slot 17
+0x11
+//TDM slot 18
+0x12
+//TDM slot 19
+0x13
+//TDM slot 20
+0x14
+//TDM slot 21
+0x15
+//TDM slot 22
+0x16
+//TDM slot 23
+0x17
+//TDM slot 24
+0x18
+//TDM slot 25
+0x19
+//TDM slot 26
+0x1A
+//TDM slot 27
+0x1B
+//TDM slot 28
+0x1C
+//TDM slot 29
+0x1D
+//TDM slot 30
+0x1E
+//TDM slot 31
+0x1F

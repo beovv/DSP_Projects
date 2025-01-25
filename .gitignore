@@ -1,0 +1,9 @@
+*.zip
+*.exe
+*.bin
+*.elf
+*.hex
+*.jpg
+*.pdf
+*.png
+/_ChipStudio/

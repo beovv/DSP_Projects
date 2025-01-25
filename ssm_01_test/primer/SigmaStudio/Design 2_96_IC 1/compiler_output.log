@@ -1,0 +1,82 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Saturday, May 15, 2021 6:38:28 PM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Saturday, May 15, 2021 6:38:28 PM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       00583    (of 40960)
+DM1 RAM used:       00528    (of 40960)
+PM  RAM used(Data): 00000    (of 24576)
+PM  RAM used(Inst): 01221    (of 24576) 885 instructions (32bit: 549  64bit: 336)
+Total PM used:      01221    (of 24576)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        16      0       0       
+Crossover_200                 98        174       84      110     0
+Crossover_1200                98        170       84      110     0
+Crossover_600                 98        167       84      110     0
+Crossover_300                 98        166       84      110     0
+DynBassBoost                  76        92        108     14      0
+FRAMEWORK                     70        52        16      8       0
+AvgEnv1_2                     22        22        7       1       0
+AvgEnv1                       22        22        7       1       0
+Tone1000                      18        18        10      1       0
+Tone400                       18        18        10      1       0
+DCB2                          16        16        6       6       0
+CrossoverSwLeft               11        14        8       2       0
+InputSwitch                   11        14        8       2       0
+CrossoverSwRight              11        14        8       2       0
+TestToneSwitch                11        14        8       2       0
+XBassSwitch                   11        14        4       2       0
+CrossoverBypassRight          11        14        4       2       0
+CrossoverBypassLeft           11        14        4       2       0
+TCount1                       14        14        1       4       0
+MuteVolume                    11        13        0       4       0
+MuteToggle                    12        12        1       4       0
+Lookup Table1                 7         8         2       1       0
+Shift1                        4         4         1       1       0
+Shift1_2                      4         4         1       1       0
+Interface Read1               4         4         1       1       0
+Interface Read1_2             4         4         1       1       0
+WhiteNoise                    4         4         1       1       0
+Input_2                       4         4         0       2       0
+Input_0                       4         4         0       2       0
+ADC In1                       4         4         0       1       0
+TestBtn                       4         4         0       1       0
+ADC In1_2                     4         4         0       1       0
+MuteBtn                       4         4         0       1       0
+XbassSw                       4         4         0       1       0
+CrossBypSw                    4         4         0       1       0
+Input_1                       4         4         0       0       0
+ReadBack2_4                   3         3         1       1       0
+ReadBack2_3                   3         3         1       1       0
+ReadBack4_2                   3         3         1       1       0
+ReadBack4                     3         3         1       1       0
+ReadBack1                     3         3         1       1       0
+ReadBack1_2                   3         3         1       1       0
+ReadBack4_3                   3         3         1       1       0
+ReadBack2_5                   3         3         1       1       0
+ReadBack2                     3         3         1       0       0
+ReadBack2_2                   3         3         1       0       0
+AsrcIn1                       3         3         0       2       0
+Interface Write1              2         2         0       0       0
+SpdifOut1                     2         2         0       0       0
+Output2                       2         2         0       0       0
+SpdifOut2                     2         2         0       0       0
+Interface Write1_2            2         2         0       0       0
+Output2_2                     2         2         0       0       0
+Output1_2                     2         2         0       0       0
+Output1                       2         2         0       0       0
+--------------------------------------------------------------------------------------
+Total                         860       1167      579     524     0
+--------------------------------------------------------------------------------------
+(% Fs=96.0kHz)                28%       5%        2%      2%      0%
+

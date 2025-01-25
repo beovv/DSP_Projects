@@ -1,0 +1,38 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Thursday, December 23, 2021 1:09:05 AM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Thursday, December 23, 2021 1:09:05 AM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       00059    (of 40960)
+DM1 RAM used:       00036    (of 40960)
+PM  RAM used(Data): 00000    (of 24576)
+PM  RAM used(Inst): 00197    (of 24576) 174 instructions (32bit: 151  64bit: 23)
+Total PM used:      00197    (of 24576)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        16      0       0       
+FRAMEWORK                     60        42        4       8       0
+Nx2-1                         15        18        8       2       0
+DCB1                          16        16        6       6       0
+DCB1_3                        16        16        6       6       0
+DCB1_2                        16        16        6       6       0
+Single 1_2                    10        13        3       2       0
+Single 1                      8         11        3       1       0
+Single 2                      8         11        3       1       0
+AsrcIn1                       5         5         0       0       0
+Input2                        4         4         0       0       0
+Output1                       3         3         0       0       0
+--------------------------------------------------------------------------------------
+Total                         161       155       55      32      0
+--------------------------------------------------------------------------------------
+(% Fs=48.0kHz)                3%        1%        1%      1%      0%
+

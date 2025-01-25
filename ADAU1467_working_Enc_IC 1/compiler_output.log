@@ -1,0 +1,49 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Sunday, December 26, 2021 9:03:33 PM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Sunday, December 26, 2021 9:03:33 PM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       00114    (of 40960)
+DM1 RAM used:       00035    (of 40960)
+PM  RAM used(Data): 00000    (of 24576)
+PM  RAM used(Inst): 00274    (of 24576) 257 instructions (32bit: 240  64bit: 17)
+Total PM used:      00274    (of 24576)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        16      0       0       
+RotVol1                       52        53        43      6       0
+FRAMEWORK                     60        42        4       8       0
+Tone1                         18        18        10      1       0
+Tone2                         18        18        10      1       0
+Tone3                         18        18        10      1       0
+TCount1                       14        14        1       4       0
+Single 1                      8         11        3       1       0
+MX1                           8         10        3       1       0
+ZeroComp1                     5         5         1       1       0
+ZeroComp1_2                   5         5         1       1       0
+Interface Read2               4         4         1       1       0
+Interface Read1               4         4         1       1       0
+GPI2                          4         4         0       1       0
+GPI1                          4         4         0       1       0
+GPI3                          4         4         0       0       0
+Level1_2                      3         3         2       1       0
+Level1                        3         3         2       1       0
+ReadBack1                     3         3         1       0       0
+ReadBack1_2                   3         3         1       0       0
+Interface Write2              2         2         0       0       0
+Interface Write1              2         2         0       0       0
+Output1_2                     2         2         0       0       0
+--------------------------------------------------------------------------------------
+Total                         244       232       110     31      0
+--------------------------------------------------------------------------------------
+(% Fs=96.0kHz)                8%        1%        1%      1%      0%
+

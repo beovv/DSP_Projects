@@ -1,0 +1,4 @@
+//rising edge active
+0x40, 0x00
+//falling edge active
+0x40, 0x40

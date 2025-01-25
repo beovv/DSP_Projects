@@ -1,0 +1,4 @@
+//Low Left / start on falling edge
+0x04, 0x00
+//High Left / start on rising edge
+0x04, 0x04

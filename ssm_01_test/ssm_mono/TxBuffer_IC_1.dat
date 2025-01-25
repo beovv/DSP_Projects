@@ -1,0 +1,40 @@
+0x00, 0x04, 			/* (0) IC 1.POWER_CTRL Register.POWER_CTRL */
+0xB0, 
+0x00, 0x05, 			/* (1) IC 1.AMP_DAC_CTRL Register.AMP_DAC_CTRL */
+0x8B, 
+0x00, 0x06, 			/* (2) IC 1.DAC_CTRL Register.DAC_CTRL */
+0x43, 
+0x00, 0x07, 			/* (3) IC 1.VOL_LEFT_CTRL Register.VOL_LEFT_CTRL */
+0x5F, 
+0x00, 0x08, 			/* (4) IC 1.VOL_RIGHT_CTRL Register.VOL_RIGHT_CTRL */
+0x5F, 
+0x00, 0x09, 			/* (5) IC 1.SAI_CTRL1 Register.SAI_CTRL1 */
+0x13, 
+0x00, 0x0A, 			/* (6) IC 1.SAI_CTRL2 Register.SAI_CTRL2 */
+0x86, 
+0x00, 0x0B, 			/* (7) IC 1.SLOT_LEFT_CTRL Register.SLOT_LEFT_CTRL */
+0x01, 
+0x00, 0x0C, 			/* (8) IC 1.SLOT_RIGHT_CTRL Register.SLOT_RIGHT_CTRL */
+0x00, 
+0x00, 0x0E, 			/* (9) IC 1.LIM_LEFT_CTRL1 Register.LIM_LEFT_CTRL1 */
+0xB1, 
+0x00, 0x0F, 			/* (10) IC 1.LIM_LEFT_CTRL2 Register.LIM_LEFT_CTRL2 */
+0x41, 
+0x00, 0x10, 			/* (11) IC 1.LIM_LEFT_CTRL3 Register.LIM_LEFT_CTRL3 */
+0x22, 
+0x00, 0x11, 			/* (12) IC 1.LIM_RIGHT_CTRL1 Register.LIM_RIGHT_CTRL1 */
+0xA9, 
+0x00, 0x12, 			/* (13) IC 1.LIM_RIGHT_CTRL2 Register.LIM_RIGHT_CTRL2 */
+0x41, 
+0x00, 0x13, 			/* (14) IC 1.LIM_RIGHT_CTRL3 Register.LIM_RIGHT_CTRL3 */
+0x22, 
+0x00, 0x14, 			/* (15) IC 1.CLIP_LEFT_CTRL Register.CLIP_LEFT_CTRL */
+0xFF, 
+0x00, 0x15, 			/* (16) IC 1.CLIP_RIGHT_CTRL Register.CLIP_RIGHT_CTRL */
+0xFF, 
+0x00, 0x16, 			/* (17) IC 1.FAULT_CTRL1 Register.FAULT_CTRL1 */
+0x00, 
+0x00, 0x17, 			/* (18) IC 1.FAULT_CTRL2 Register.FAULT_CTRL2 */
+0x30, 
+0x00, 0x1C, 			/* (19) IC 1.SOFT_RESET Register.SOFT_RESET */
+0x00, 

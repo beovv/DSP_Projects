@@ -1,0 +1,42 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Sunday, December 26, 2021 4:36:04 PM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Sunday, December 26, 2021 4:36:04 PM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       00264    (of 40960)
+DM1 RAM used:       00022    (of 40960)
+PM  RAM used(Data): 00000    (of 24576)
+PM  RAM used(Inst): 00565    (of 24576) 496 instructions (32bit: 427  64bit: 69)
+Total PM used:      00565    (of 24576)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        40      0       0       
+FRAMEWORK                     170       172       157     8       0
+RotVol1                       56        57        26      7       0
+Inferface write1              15?       16        14      0       0	using: __ISR_Write__	using: __ISR_Read__	using: __MASTER_CONTROL_PORT_COMMON_INIT__	using: _SPI_WRITE_InterfaceWriteS3001_INT_WAIT__
+Input1                        4         4         0       2       0
+GPI1                          4         4         0       0       0
+GPI2                          4         4         0       0       0
+Output1                       3         3         0       0       0
+Inferface read1               2         2         1       1       0
+(? Jump instruction present, actual cycle count may differ.)
+
+Subroutines called:
+__ISR_Write__                 0         13        4       0       0
+__ISR_Read__                  0         39        12      0       0
+__MASTER_CONTROL_PORT_COMMON_I0         104       6       0       0
+_SPI_WRITE_InterfaceWriteS30010         79        0       0       0
+--------------------------------------------------------------------------------------
+Total                         258       497       260     18      0
+--------------------------------------------------------------------------------------
+(% Fs=96.0kHz)                9%        3%        1%      1%      0%
+

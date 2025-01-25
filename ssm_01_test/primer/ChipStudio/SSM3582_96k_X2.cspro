@@ -1,0 +1,363 @@
+#Begin FileDescription
+Version[0.94.3]
+#End FileDescription
+#Begin Block
+[SchemaBlock_DSP;SSM3582;SSM3582_0;;DSP_I2C;97,94674556213;97]
+[Transfer;Write;4;0;9;160;138;3;122;122;16;7;0;1]
+[Transfer;Write;14;0;10;161;81;34;169;81;34;255;255;34;48]
+[Transfer;Write;28;0;1;0]
+[Cell;Auto PWR-down;SSM3582_0;Analog;True;False]
+[Parameter;Auto PWR-down;4;2;0;0]
+[Cell;Mono mode;SSM3582_0;Analog;True;False]
+[Parameter;Mono mode;4;2;0;0]
+[Cell;R PWR-down;SSM3582_0;Analog;True;False]
+[Parameter;R PWR-down;4;2;0;0]
+[Cell;L PWR-down;SSM3582_0;Analog;True;False]
+[Parameter;L PWR-down;4;2;0;0]
+[Cell;Master PWR-down;SSM3582_0;Analog;True;False]
+[Parameter;Master PWR-down;4;2;0;0]
+[Cell;DAC Low PWR;SSM3582_0;Analog;True;False]
+[Parameter;DAC Low PWR;5;2;0;0]
+[Cell;DAC R polarity;SSM3582_0;Analog;True;False]
+[Parameter;DAC R polarity;5;2;0;0]
+[Cell;DAC L polarity;SSM3582_0;Analog;True;False]
+[Parameter;DAC L polarity;5;2;0;0]
+[Cell;Edge rate;SSM3582_0;Analog;True;False]
+[Parameter;Edge rate;5;2;0;0]
+[Cell;Analog gain;SSM3582_0;Analog;True;False]
+[Parameter;Analog gain;5;2;0;0]
+[Cell;Hard Vol control;SSM3582_0;Analog;True;False]
+[Parameter;Hard Vol control;6;2;0;0]
+[Cell;DAC R Mute;SSM3582_0;Analog;True;False]
+[Parameter;DAC R Mute;6;2;0;0]
+[Cell;DAC L Mute;SSM3582_0;Analog;True;False]
+[Parameter;DAC L Mute;6;2;0;0]
+[Cell;DAC H-P filter;SSM3582_0;Analog;True;False]
+[Parameter;DAC H-P filter;6;2;0;0]
+[Cell;DAC Sample rate;SSM3582_0;Analog;True;False]
+[Parameter;DAC Sample rate;6;2;0;0]
+[Cell;DAC L Volume;SSM3582_0;Analog;True;False]
+[Parameter;DAC L Volume;7;1;0]
+[Cell;DAC R Volume;SSM3582_0;Analog;True;False]
+[Parameter;DAC R Volume;8;1;0]
+[Cell;BCLK Polarity;SSM3582_0;Analog;True;False]
+[Parameter;BCLK Polarity;9;2;0;0]
+[Cell;TDM Slot width;SSM3582_0;Analog;True;False]
+[Parameter;TDM Slot width;9;2;0;0]
+[Cell;FSYNC Mode;SSM3582_0;Analog;True;False]
+[Parameter;FSYNC Mode;9;2;0;0]
+[Cell;Data format;SSM3582_0;Analog;True;False]
+[Parameter;Data format;9;2;0;0]
+[Cell;Interface mode;SSM3582_0;Analog;True;False]
+[Parameter;Interface mode;9;2;0;0]
+[Cell;SDATA edge delay;SSM3582_0;Analog;True;False]
+[Parameter;SDATA edge delay;10;2;0;0]
+[Cell;Data width;SSM3582_0;Analog;True;False]
+[Parameter;Data width;10;2;0;0]
+[Cell;Vol control Zero-Crossing;SSM3582_0;Analog;True;False]
+[Parameter;Vol control Zero-Crossing;10;2;0;0]
+[Cell;Auto TDM slot selection;SSM3582_0;Analog;True;False]
+[Parameter;Auto TDM slot selection;10;2;0;0]
+[Cell;TDM L slot;SSM3582_0;Analog;True;False]
+[Parameter;TDM L slot;11;1;0]
+[Cell;TDM R slot;SSM3582_0;Analog;True;False]
+[Parameter;TDM R slot;12;1;0]
+[Cell;Limiter L release;SSM3582_0;Analog;True;False]
+[Parameter;Limiter L release;14;2;0;0]
+[Cell;Limiter L attack;SSM3582_0;Analog;True;False]
+[Parameter;Limiter L attack;14;2;0;0]
+[Cell;L battery track;SSM3582_0;Analog;True;False]
+[Parameter;L battery track;14;2;0;0]
+[Cell;Limiter L mode;SSM3582_0;Analog;True;False]
+[Parameter;Limiter L mode;14;2;0;0]
+[Cell;Limiter L threshold;SSM3582_0;Analog;True;False]
+[Parameter;Limiter L threshold;15;2;0;0]
+[Cell;Limiter L slope;SSM3582_0;Analog;True;False]
+[Parameter;Limiter L slope;15;2;0;0]
+[Cell;Limiter L battery voltage;SSM3582_0;Analog;True;False]
+[Parameter;Limiter L battery voltage;16;1;0]
+[Cell;Limiter R release;SSM3582_0;Analog;True;False]
+[Parameter;Limiter R release;17;2;0;0]
+[Cell;Limiter R attack;SSM3582_0;Analog;True;False]
+[Parameter;Limiter R attack;17;2;0;0]
+[Cell;R battery track;SSM3582_0;Analog;True;False]
+[Parameter;R battery track;17;2;0;0]
+[Cell;Limiter R mode;SSM3582_0;Analog;True;False]
+[Parameter;Limiter R mode;17;2;0;0]
+[Cell;Limiter R threshold;SSM3582_0;Analog;True;False]
+[Parameter;Limiter R threshold;18;2;0;0]
+[Cell;Limiter R slope;SSM3582_0;Analog;True;False]
+[Parameter;Limiter R slope;18;2;0;0]
+[Cell;Limiter R battery voltage;SSM3582_0;Analog;True;False]
+[Parameter;Limiter R battery voltage;19;1;0]
+[Cell;Clip L;SSM3582_0;Analog;True;False]
+[Parameter;Clip L;20;1;0]
+[Cell;Clip R;SSM3582_0;Analog;True;False]
+[Parameter;Clip R;21;1;0]
+[BusAddress;16]
+#End Block
+#Begin Block
+[SchemaBlock_RDC2_0032;RDC2_0032;RDC2_0032_0;;Controller;325,94674556213;180]
+[1]
+[0]
+[0]
+[0]
+[0]
+[0]
+[0]
+[0]
+[2]
+[2]
+[2]
+[2]
+[1]
+[0]
+[StartUpDelay;True;4]
+#End Block
+#Begin Connection
+[RDC2_0032_0;12;FromMasterToSlave_I2C;338,94674556213;204,8]
+[SSM3582_0;0;FromSlaveToMaster_I2C;267,290078895463;123,65]
+#End Connection
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;DAC L Volume;SSM3582_0;DSPCellDiscrete;573,94674556213;28]
+[RegData;255;252;248;244;240;236;232;228;224;220;216;212;208;204;200;196;192;188;184;180;176;172;168;164;160;156;152;148;144;140;136;132;128;124;120;116;112;108;104;100;96;92;88;84;80;76;72;68;64;60;56;52;48;44;40;36;32;28;24;20;16;12;8;4;0]
+#End Block
+#Begin Connection
+[RDC2_0032_0;0;FromPOTKeySwitchToDSPCell;433,94674556213;259,1]
+[DAC L VolumeSSM3582_0;0;FromDSPCellToPOTKeySwitch;580,94674556213;40]
+#End Connection
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;DAC R Mute;SSM3582_0;DSPCellAnalog;843,94674556213;140]
+[RegData;64;64;64;0]
+#End Block
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;DAC L Mute;SSM3582_0;DSPCellAnalog;840,94674556213;71]
+[RegData;32;32;32;0]
+#End Block
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;Analog gain;SSM3582_0;DSPCellAnalog;601,94674556213;675]
+[RegData;3;0;3;3]
+#End Block
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;Limiter L mode;SSM3582_0;DSPCellAnalog;895,94674556213;370]
+[RegData;3;0;3;1]
+#End Block
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;Limiter R mode;SSM3582_0;DSPCellAnalog;894,94674556213;440]
+[RegData;3;0;3;1]
+#End Block
+#Begin Block
+[SchemaBlock_DSP;SSM3582;SSM3582_1;;DSP_I2C;96,9467455621302;179]
+[Transfer;Write;4;0;9;160;138;3;122;122;16;7;0;1]
+[Transfer;Write;14;0;10;161;81;34;169;81;34;255;255;34;48]
+[Transfer;Write;28;0;1;0]
+[Cell;Auto PWR-down;SSM3582_1;Analog;True;False]
+[Parameter;Auto PWR-down;4;2;0;0]
+[Cell;Mono mode;SSM3582_1;Analog;True;False]
+[Parameter;Mono mode;4;2;0;0]
+[Cell;R PWR-down;SSM3582_1;Analog;True;False]
+[Parameter;R PWR-down;4;2;0;0]
+[Cell;L PWR-down;SSM3582_1;Analog;True;False]
+[Parameter;L PWR-down;4;2;0;0]
+[Cell;Master PWR-down;SSM3582_1;Analog;True;False]
+[Parameter;Master PWR-down;4;2;0;0]
+[Cell;DAC Low PWR;SSM3582_1;Analog;True;False]
+[Parameter;DAC Low PWR;5;2;0;0]
+[Cell;DAC R polarity;SSM3582_1;Analog;True;False]
+[Parameter;DAC R polarity;5;2;0;0]
+[Cell;DAC L polarity;SSM3582_1;Analog;True;False]
+[Parameter;DAC L polarity;5;2;0;0]
+[Cell;Edge rate;SSM3582_1;Analog;True;False]
+[Parameter;Edge rate;5;2;0;0]
+[Cell;Analog gain;SSM3582_1;Analog;True;False]
+[Parameter;Analog gain;5;2;0;0]
+[Cell;Hard Vol control;SSM3582_1;Analog;True;False]
+[Parameter;Hard Vol control;6;2;0;0]
+[Cell;DAC R Mute;SSM3582_1;Analog;True;False]
+[Parameter;DAC R Mute;6;2;0;0]
+[Cell;DAC L Mute;SSM3582_1;Analog;True;False]
+[Parameter;DAC L Mute;6;2;0;0]
+[Cell;DAC H-P filter;SSM3582_1;Analog;True;False]
+[Parameter;DAC H-P filter;6;2;0;0]
+[Cell;DAC Sample rate;SSM3582_1;Analog;True;False]
+[Parameter;DAC Sample rate;6;2;0;0]
+[Cell;DAC L Volume;SSM3582_1;Analog;True;False]
+[Parameter;DAC L Volume;7;1;0]
+[Cell;DAC R Volume;SSM3582_1;Analog;True;False]
+[Parameter;DAC R Volume;8;1;0]
+[Cell;BCLK Polarity;SSM3582_1;Analog;True;False]
+[Parameter;BCLK Polarity;9;2;0;0]
+[Cell;TDM Slot width;SSM3582_1;Analog;True;False]
+[Parameter;TDM Slot width;9;2;0;0]
+[Cell;FSYNC Mode;SSM3582_1;Analog;True;False]
+[Parameter;FSYNC Mode;9;2;0;0]
+[Cell;Data format;SSM3582_1;Analog;True;False]
+[Parameter;Data format;9;2;0;0]
+[Cell;Interface mode;SSM3582_1;Analog;True;False]
+[Parameter;Interface mode;9;2;0;0]
+[Cell;SDATA edge delay;SSM3582_1;Analog;True;False]
+[Parameter;SDATA edge delay;10;2;0;0]
+[Cell;Data width;SSM3582_1;Analog;True;False]
+[Parameter;Data width;10;2;0;0]
+[Cell;Vol control Zero-Crossing;SSM3582_1;Analog;True;False]
+[Parameter;Vol control Zero-Crossing;10;2;0;0]
+[Cell;Auto TDM slot selection;SSM3582_1;Analog;True;False]
+[Parameter;Auto TDM slot selection;10;2;0;0]
+[Cell;TDM L slot;SSM3582_1;Analog;True;False]
+[Parameter;TDM L slot;11;1;0]
+[Cell;TDM R slot;SSM3582_1;Analog;True;False]
+[Parameter;TDM R slot;12;1;0]
+[Cell;Limiter L release;SSM3582_1;Analog;True;False]
+[Parameter;Limiter L release;14;2;0;0]
+[Cell;Limiter L attack;SSM3582_1;Analog;True;False]
+[Parameter;Limiter L attack;14;2;0;0]
+[Cell;L battery track;SSM3582_1;Analog;True;False]
+[Parameter;L battery track;14;2;0;0]
+[Cell;Limiter L mode;SSM3582_1;Analog;True;False]
+[Parameter;Limiter L mode;14;2;0;0]
+[Cell;Limiter L threshold;SSM3582_1;Analog;True;False]
+[Parameter;Limiter L threshold;15;2;0;0]
+[Cell;Limiter L slope;SSM3582_1;Analog;True;False]
+[Parameter;Limiter L slope;15;2;0;0]
+[Cell;Limiter L battery voltage;SSM3582_1;Analog;True;False]
+[Parameter;Limiter L battery voltage;16;1;0]
+[Cell;Limiter R release;SSM3582_1;Analog;True;False]
+[Parameter;Limiter R release;17;2;0;0]
+[Cell;Limiter R attack;SSM3582_1;Analog;True;False]
+[Parameter;Limiter R attack;17;2;0;0]
+[Cell;R battery track;SSM3582_1;Analog;True;False]
+[Parameter;R battery track;17;2;0;0]
+[Cell;Limiter R mode;SSM3582_1;Analog;True;False]
+[Parameter;Limiter R mode;17;2;0;0]
+[Cell;Limiter R threshold;SSM3582_1;Analog;True;False]
+[Parameter;Limiter R threshold;18;2;0;0]
+[Cell;Limiter R slope;SSM3582_1;Analog;True;False]
+[Parameter;Limiter R slope;18;2;0;0]
+[Cell;Limiter R battery voltage;SSM3582_1;Analog;True;False]
+[Parameter;Limiter R battery voltage;19;1;0]
+[Cell;Clip L;SSM3582_1;Analog;True;False]
+[Parameter;Clip L;20;1;0]
+[Cell;Clip R;SSM3582_1;Analog;True;False]
+[Parameter;Clip R;21;1;0]
+[BusAddress;17]
+#End Block
+#Begin Connection
+[SSM3582_1;0;FromSlaveToMaster_I2C;266,290078895464;205,65]
+[RDC2_0032_0;12;FromMasterToSlave_I2C;338,94674556213;204,8]
+#End Connection
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;DAC L Volume;SSM3582_1;DSPCellDiscrete;573,94674556213;101]
+[RegData;255;252;248;244;240;236;232;228;224;220;216;212;208;204;200;196;192;188;184;180;176;172;168;164;160;156;152;148;144;140;136;132;128;124;120;116;112;108;104;100;96;92;88;84;80;76;72;68;64;60;56;52;48;44;40;36;32;28;24;20;16;12;8;4;0]
+#End Block
+#Begin Connection
+[DAC L VolumeSSM3582_1;0;FromDSPCellToPOTKeySwitch;580,94674556213;113]
+[RDC2_0032_0;0;FromPOTKeySwitchToDSPCell;433,94674556213;259,1]
+#End Connection
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;DAC L Mute;SSM3582_1;DSPCellDiscrete;844,94674556213;209]
+[RegData;32;32;32;0]
+#End Block
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;DAC R Mute;SSM3582_1;DSPCellDiscrete;843,94674556213;282]
+[RegData;64;64;64;0]
+#End Block
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;Analog gain;SSM3582_1;DSPCellDiscrete;603,94674556213;745]
+[RegData;3;0;3;3]
+#End Block
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;Limiter L mode;SSM3582_1;DSPCellDiscrete;896,94674556213;509]
+[RegData;3;0;3;1]
+#End Block
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;Limiter R mode;SSM3582_1;DSPCellDiscrete;895,94674556213;581]
+[RegData;3;0;3;1]
+#End Block
+#Begin Block
+[SchemaBlock_Control;Switch;Switch_0;;Switch;746,94674556213;303]
+#End Block
+#Begin Block
+[SchemaBlock_Control;Switch;Switch_1;;Switch;754,94674556213;384]
+#End Block
+#Begin Block
+[SchemaBlock_Control;Switch;Switch_2;;Switch;516,94674556213;670]
+#End Block
+#Begin Connection
+[Switch_2;0;FromSwitchToController;523,94674556213;677]
+[Switch_2;0;FromSwitchToController;523,94674556213;677]
+#End Connection
+#Begin Connection
+[Switch_2;0;FromSwitchToController;523,94674556213;677]
+[RDC2_0032_0;11;FromControllerToSwitch;433,94674556213;466,4]
+#End Connection
+#Begin Connection
+[Switch_0;1;FromPOTKeySwitchToDSPCell;793,94674556213;310]
+[DAC L MuteSSM3582_0;0;FromDSPCellToPOTKeySwitch;847,94674556213;83]
+#End Connection
+#Begin Connection
+[DAC R MuteSSM3582_0;0;FromDSPCellToPOTKeySwitch;850,94674556213;152]
+[Switch_0;1;FromPOTKeySwitchToDSPCell;793,94674556213;310]
+#End Connection
+#Begin Connection
+[DAC L MuteSSM3582_1;0;FromDSPCellToPOTKeySwitch;851,94674556213;221]
+[Switch_0;1;FromPOTKeySwitchToDSPCell;793,94674556213;310]
+#End Connection
+#Begin Connection
+[DAC R MuteSSM3582_1;0;FromDSPCellToPOTKeySwitch;850,94674556213;294]
+[Switch_0;1;FromPOTKeySwitchToDSPCell;793,94674556213;310]
+#End Connection
+#Begin Connection
+[Limiter L modeSSM3582_0;0;FromDSPCellToPOTKeySwitch;902,94674556213;382]
+[Switch_1;1;FromPOTKeySwitchToDSPCell;801,94674556213;391]
+#End Connection
+#Begin Connection
+[Limiter R modeSSM3582_0;0;FromDSPCellToPOTKeySwitch;901,94674556213;452]
+[Switch_1;1;FromPOTKeySwitchToDSPCell;801,94674556213;391]
+#End Connection
+#Begin Connection
+[Limiter L modeSSM3582_1;0;FromDSPCellToPOTKeySwitch;903,94674556213;521]
+[Switch_1;1;FromPOTKeySwitchToDSPCell;801,94674556213;391]
+#End Connection
+#Begin Connection
+[Limiter R modeSSM3582_1;0;FromDSPCellToPOTKeySwitch;902,94674556213;593]
+[Switch_1;1;FromPOTKeySwitchToDSPCell;801,94674556213;391]
+#End Connection
+#Begin Connection
+[Switch_2;1;FromPOTKeySwitchToDSPCell;563,94674556213;677]
+[Analog gainSSM3582_0;0;FromDSPCellToPOTKeySwitch;608,94674556213;687]
+#End Connection
+#Begin Connection
+[Analog gainSSM3582_1;0;FromDSPCellToPOTKeySwitch;610,94674556213;757]
+[Switch_2;1;FromPOTKeySwitchToDSPCell;563,94674556213;677]
+#End Connection
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;Mono mode;SSM3582_0;DSPCellAnalog;845,94674556213;735]
+[RegData;16;16;16;0]
+#End Block
+#Begin Block
+[SchemaBlock_DSPCell;NotBypassableDSPCell;Mono mode;SSM3582_1;DSPCellAnalog;846,94674556213;664]
+[RegData;16;16;16;0]
+#End Block
+#Begin Block
+[SchemaBlock_Control;Switch;Switch_3;;Switch;733,94674556213;625]
+#End Block
+#Begin Connection
+[Switch_3;1;FromPOTKeySwitchToDSPCell;780,94674556213;632]
+[Mono modeSSM3582_1;0;FromDSPCellToPOTKeySwitch;853,94674556213;676]
+#End Connection
+#Begin Connection
+[Switch_3;1;FromPOTKeySwitchToDSPCell;780,94674556213;632]
+[Mono modeSSM3582_0;0;FromDSPCellToPOTKeySwitch;852,94674556213;747]
+#End Connection
+#Begin Connection
+[Switch_3;0;FromSwitchToController;740,94674556213;632]
+[RDC2_0032_0;10;FromControllerToSwitch;433,94674556213;449,4]
+#End Connection
+#Begin Connection
+[RDC2_0032_0;9;FromControllerToSwitch;433,94674556213;432,4]
+[Switch_1;0;FromSwitchToController;761,94674556213;391]
+#End Connection
+#Begin Connection
+[RDC2_0032_0;8;FromControllerToSwitch;433,94674556213;415,4]
+[Switch_0;0;FromSwitchToController;753,94674556213;310]
+#End Connection

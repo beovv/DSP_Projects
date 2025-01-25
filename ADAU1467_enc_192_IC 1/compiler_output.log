@@ -1,0 +1,66 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Tuesday, April 5, 2022 11:27:13 PM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Tuesday, April 5, 2022 11:27:13 PM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       00191    (of 40960)
+DM1 RAM used:       00175    (of 40960)
+PM  RAM used(Data): 00000    (of 24576)
+PM  RAM used(Inst): 00538    (of 24576) 449 instructions (32bit: 360  64bit: 89)
+Total PM used:      00538    (of 24576)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        16      0       0       
+Crossover1_3                  54        85        40      56      0
+Crossover1_2                  54        85        40      56      0
+RotVol1                       56        57        32      7       0
+FRAMEWORK                     66        48        12      8       0
+MX1                           18        24        5       0       0
+DCB1                          16        16        6       6       0
+DCB1_3                        16        16        6       6       0
+TCount2                       14        14        1       4       0
+Single 1_3                    8         11        3       1       0
+Single 1_4                    8         11        3       1       0
+Single 1_5                    8         11        3       1       0
+ZeroComp1                     10        10        1       2       0
+Gen 1st Order2_2              7         7         3       5       0
+Gen 1st Order2                7         7         3       5       0
+Single 2_3                    5         5         1       1       0
+Single 2                      5         5         1       1       0
+Single 2_2                    5         5         1       1       0
+AsrcIn1                       5         5         0       0       0
+Mute1_9                       4         4         1       1       0
+Mute1_7                       4         4         1       1       0
+Mute1_6                       4         4         1       1       0
+Mute1_5                       4         4         1       1       0
+Interface Read2               4         4         1       1       0
+Interface Read1               4         4         1       1       0
+Mute1_8                       4         4         1       1       0
+Mute1_4                       4         4         1       1       0
+GPI2                          4         4         0       1       0
+GPI3                          4         4         0       1       0
+GPI1                          4         4         0       0       0
+ReadBack1                     3         3         1       0       0
+ReadBack1_2                   3         3         1       0       0
+Interface Write2              2         2         0       0       0
+Interface Write1              2         2         0       0       0
+Output1_2                     2         2         0       0       0
+Output1_3                     2         2         0       0       0
+Output1_4                     2         2         0       0       0
+Output1_6                     2         2         0       0       0
+Output1_7                     2         2         0       0       0
+Output1_5                     2         2         0       0       0
+--------------------------------------------------------------------------------------
+Total                         428       488       187     171     0
+--------------------------------------------------------------------------------------
+(% Fs=192.0kHz)               28%       2%        1%      1%      0%
+
